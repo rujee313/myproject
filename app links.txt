@@ -1,0 +1,9 @@
+http://127.0.0.1:8000/signup/ 
+
+http://127.0.0.1:8000/accounts/login/
+
+http://127.0.0.1:8000/accounts/logout/
+
+http://127.0.0.1:8000/customers/  → View customer list
+
+http://127.0.0.1:8000/customers/add/  → Add a new customer
