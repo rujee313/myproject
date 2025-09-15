@@ -7,3 +7,7 @@ http://127.0.0.1:8000/accounts/logout/
 http://127.0.0.1:8000/customers/  → View customer list
 
 http://127.0.0.1:8000/customers/add/  → Add a new customer
+
+http://127.0.0.1:8000/tasks/  → View tasks
+
+http://127.0.0.1:8000/tasks/add/  → Add a task
